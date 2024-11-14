@@ -1,5 +1,5 @@
 
-# OperacoesBD
+# OperacoesBD de Leticya
 
 A biblioteca `operacoesbd` oferece um conjunto de funções para facilitar operações de manipulação de dados em um banco de dados MySQL usando Python e `mysql.connector`. Essa biblioteca inclui funcionalidades para conexão, inserção, listagem, atualização e exclusão de dados, com tratamento de exceções para assegurar o controle transacional em caso de erros.
 
